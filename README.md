@@ -10,6 +10,7 @@ Runs the node-app in the dev mode on http://localhost:3080 <br />
 The page will reload if you make edits.<br />
 
 ## Regarding the Front-End Components
+<img width="1433" alt="Screen Shot 2021-09-24 at 2 20 24 PM" src="https://user-images.githubusercontent.com/70448741/134745288-42deebe2-8299-4aa0-946a-8b7d3d051cb9.png">
 
 ### Get Original Tree
 This sub-component gets the relation between all the nodes present in the n-ary tree and all of the node's descendants.
